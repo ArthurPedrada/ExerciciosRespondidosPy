@@ -1,0 +1,1 @@
+**Olá esse repositório é reservado para exercícios em python**
